@@ -1,0 +1,58 @@
+chicken, good chicken
+rice, good rice
+noodle, good noodle
+cafe, good cafe
+wine, good wine
+cake, good cake
+beef, good beef
+pork, good pork
+shrimp, good shrimp
+dumpling, good dumpling
+tea, good tea
+sushi, good sushi
+crab, good crab
+fish, good fish
+wonton, good wonton
+vegetable, good vegetable
+appetizer, good appetizer
+veggie, good veggie
+tofu, good tofu
+bbq, good bbq
+seafood, good seafood
+mongolian, mongolian
+curry, good curry
+woman, for woman
+boyfriend, for boyfriend
+rib, good rib
+mom, for mom
+cheese, good cheese
+bread, good rib
+mexican, mexican
+bun, good bun
+american, american
+soup, good soup
+steak, good steak
+ramen, good ramen
+teriyaki, good teriyaki
+leftover, good food
+beer, good beer
+sunday, for sunday
+vietnamese, vietnamese
+rangoon, good rangoon
+take-out, take-out
+bartender, service
+weekend, for weekend
+pizza, good pizza
+breakfast, good breakfast
+japanese, japanese
+tuna, good tune
+mother, for mother
+cookie, good cookie
+lobster, good lobster
+sandwich, good sandwich
+girlfriend, for girlfriend
+korean, korean
+baby, for baby
+child, for child
+cantonese, cantonese
+parent, for parent
